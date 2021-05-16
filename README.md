@@ -2,7 +2,7 @@
 Download [Übersicht](http://tracesof.net/uebersicht/) to use this widget on your Mac
 
 ### Full list:
-![img](image.png)
+![img](Webp.net-resizeimage.png)
 
 ### Personal favourites:
 ![img2](image2.png)
