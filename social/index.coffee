@@ -170,5 +170,5 @@ style: """
   padding: 120px 20px 20px
   top: -10%
   width: 340px
-  text-align: justify
+  text-align: center
 """
