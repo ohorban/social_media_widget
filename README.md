@@ -6,3 +6,6 @@ Download [Übersicht](http://tracesof.net/uebersicht/) to use this widget on you
 
 ### Personal favourites:
 ![img2](image2.png)
+
+
+Published at [Übersicht](http://tracesof.net/uebersicht-widgets/#social_media_widget)
